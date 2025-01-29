@@ -44,7 +44,7 @@ ecommerce/
 ## 🚀 Installation Guide
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ecommerce.git
+   git clone https://github.com/Mohanbalu/EcommerceAI
    ```
 2. Move into the project folder:
    ```bash
@@ -71,5 +71,5 @@ Feel free to contribute! Fork the repo, create a new branch, and submit a pull r
 MIT License – Free to use and modify.  
 
 ---
-🔗 **GitHub Repository:** [Your Repository Link](https://github.com/yourusername/ecommerce)  
+🔗 **GitHub Repository:** https://github.com/Mohanbalu/EcommerceAI
 
